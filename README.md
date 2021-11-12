@@ -66,7 +66,7 @@ output= {'aa,bb':1,'aa,cc':4,'bb,cc':2}
 
 ## Construido con 🛠️
 
-_**Sistema desarrollado en Windows**_
+_**Sistema desarrollado en Windows con VISUAL STUDIO CODE**_
 
 _Debes tener instalado:_ 
 ```
